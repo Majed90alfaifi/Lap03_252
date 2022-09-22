@@ -1,7 +1,6 @@
 # Lap03_252
 
 
-//Car Class
 In the Car Class create new costarctur and the instnce refrence to the same   
 ![image](https://user-images.githubusercontent.com/99211143/191053211-eb1330fc-4421-49c7-a763-a9f03c2a4ee5.png)
 
