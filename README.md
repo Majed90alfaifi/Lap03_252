@@ -7,6 +7,5 @@ In the Car Class create new costarctur and the instnce refrence to the same
 
 
 TEST
-![image](https://user-images.githubusercontent.com/99211143/191053379-a960437a-b3a0-4b45-896a-4fa3df13b741.png)
 ![image](https://user-images.githubusercontent.com/99211143/191641609-dabce32e-036c-4380-8731-1b3bb13aef20.png)
 
